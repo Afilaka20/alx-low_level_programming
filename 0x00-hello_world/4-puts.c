@@ -1,14 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
-/**
- * main - Entry point
- *
- * Description: using the main function
- * this program prints ""Programming is like building a multilingual puzzle
- * Return: Always 0(Success)
- */
-int main()
+
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("Programming is like building a multilingual puzzle\n");
+		return (0);
 }
-Return(0)
+

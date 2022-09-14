@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print putchar
- * Return : always 0(success)
+ * main - Entry point
+ *
+ *Description: using the main function
+ * main - print _putchar
+ * Return: always 0 (success)
  */
 int main(void)
 {
@@ -15,7 +18,5 @@ int main(void)
 	putchar ('a');
 	putchar ('r');
 	putchar ('\n');
-	return(0);
+	return (0);
 }
-
-
